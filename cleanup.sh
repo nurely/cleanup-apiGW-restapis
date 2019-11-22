@@ -1,5 +1,5 @@
 echo "Kill the USELESS APIS"
-restApiIds=("XXXXXXXX" "XXXXXXX2"
+restApiIds=("XXXXXXXX" "XXXXXXX2")
 counter=0
 
 for id in "${restApiIds[@]}" 
