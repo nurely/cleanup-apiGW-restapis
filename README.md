@@ -50,3 +50,5 @@ do
 	sleep 60s #You can delete only one api per minute :/
 done
 ```
+
+- Delete your created IAM user.
